@@ -27,5 +27,8 @@ dependencies:
   - pip:
       - asgiref==3.8.1
       - django==4.2
+      - django-filter==24.3
+      - djangorestframework==3.15.2
+      - markdown==3.7
       - sqlparse==0.5.1
 prefix: /opt/anaconda3/envs/drf
